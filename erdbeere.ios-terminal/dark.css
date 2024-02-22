@@ -1,0 +1,75 @@
+body {
+    background-color: #1e1423;
+    color:#737da0
+}
+
+::selection {
+    background-color: #41a6b5;
+    color:#1e1423
+}
+
+#meow {
+    color: #d162a4;
+}
+
+#moons {
+    color: #35e53a;
+}
+
+#commandLine input[type="text"] {
+    color: #efe6d5;
+    background-color: #1e1423;
+}
+
+#tooltip {
+    background-color: rgba(30, 20, 35, 0.5);
+
+}
+
+#iconbar {
+    background: rgba(255, 255, 255, 0.125);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+#highlight {
+    background-color: #32b95e;
+    color:#1e1423
+
+}
+
+#underline {
+    text-decoration: underline;
+
+}
+
+#command {
+    color:#e0af68;
+    text-shadow: 0 0 10px #dfa00b; 
+}
+
+#accent {
+    color:#2bb9e6
+}
+#error {
+    color:#f77672
+}
+
+#nfred {
+    color:#e06c75
+}
+
+#nfgreen {
+    color:#98c379
+}
+
+#nfblue {
+    color:#61afef
+}
+
+#nfyellow {
+    color:#e5c07b
+}
+
+#nfgray {
+    color: #5a6374;
+}
